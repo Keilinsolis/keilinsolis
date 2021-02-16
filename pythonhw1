@@ -1,0 +1,30 @@
+print ('Hello World') #Problem number 1 
+
+print(2+3) #Problem number 2 
+
+x=3
+y=5
+z=7
+
+print(x+y+z) #Problem number 3 
+
+print("12"+"13") #Problem number 4 
+
+print(12+13) #Problem 5 
+#the statement from the previous problem did 
+#not work because I used a string literal by using the quotation marks making the numbers 
+#basically text and not having a numeric value on them 
+
+x= 14
+y=10 
+print(x*y) #Problem number 6 
+
+squareMe= 10 
+squareMe = squareMe * squareMe 
+print(squareMe) #Problem 7 
+
+n=2 
+print(n*(n+2)/2) #Problem 8 
+
+n=5
+print(n*(n+2)/2) #Problem 8 part 2 
